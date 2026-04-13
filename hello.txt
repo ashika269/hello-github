@@ -1,2 +1,2 @@
 Hello GitHub!
-This change is from feature1 branch
+This change is from feature2 branch
